@@ -84,3 +84,7 @@ workspace/*
 # Split-portfolio v2: real registry + project docs live in ../apexyard-portfolio (private).
 /apexyard.projects.yaml
 /projects
+
+# Editor and agent local state.
+.idea/
+.opencode/
